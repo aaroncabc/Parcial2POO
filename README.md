@@ -51,4 +51,4 @@ Para utilizar el código, puedes crear instancias de las clases y utilizar los m
 
 Se han proporcionado pruebas unitarias básicas para verificar el funcionamiento de las funciones `cargaDiaN` e `Iterar`. Estas pruebas se pueden ejecutar para asegurar que el código se comporte como se espera. Puedes ejecutar las pruebas unitarias para verificar el funcionamiento correcto del sistema.
 
-Nota: Este código está hecho para correr en un cuaderno de Google Colab. Si desea ejecutarse en otro ambiente, será necesario que se instalen las librerías y/o extensiones necesarias.
+**Nota: Este código está hecho para correr en un cuaderno de Google Colab. Si desea ejecutarse en otro ambiente, será necesario que se instalen las librerías y/o extensiones necesarias.**
