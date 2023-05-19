@@ -1,4 +1,4 @@
-# Parcial2POO
+# Parcial 2 POO
 Programación Orientada a Objetos – 2023-10 Departamento de Ingeniería de Sistemas y Computación - Universidad del Norte
 
 # TrashCity - Sistema de Administración de Residuos
@@ -50,3 +50,5 @@ Para utilizar el código, puedes crear instancias de las clases y utilizar los m
 ## Pruebas Unitarias
 
 Se han proporcionado pruebas unitarias básicas para verificar el funcionamiento de las funciones `cargaDiaN` e `Iterar`. Estas pruebas se pueden ejecutar para asegurar que el código se comporte como se espera. Puedes ejecutar las pruebas unitarias para verificar el funcionamiento correcto del sistema.
+
+Nota: Este código está hecho para correr en un cuaderno de Google Colab. Si desea ejecutarse en otro ambiente, será necesario que se instalen las librerías y/o extensiones necesarias.
